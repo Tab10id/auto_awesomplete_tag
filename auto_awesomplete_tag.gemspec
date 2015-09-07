@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = AutoAwesompleteTag::VERSION
   spec.authors       = ['Dmitry Lisichkin']
   spec.email         = ['dima@sb42.ru']
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{ActionView helper method for initialize awesomplete elements}
+  spec.summary       = spec.description
   spec.homepage      = ''
   spec.license       = 'MIT'
 
